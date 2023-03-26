@@ -20,9 +20,7 @@
   "C_Cpp_Runner.warningsAsError": false,
   "C_Cpp_Runner.compilerArgs": [],
   "C_Cpp_Runner.linkerArgs": [],
-  "C_Cpp_Runner.includePaths": [
-    "${workspaceFolder}/**"
-  ],
+  "C_Cpp_Runner.includePaths": [],
   "C_Cpp_Runner.includeSearch": [
     "*",
     "**/*"
@@ -38,6 +36,7 @@
   "C_Cpp_Runner.useAddressSanitizer": false,
   "files.associations": {
     "*.cpp": "cpp",
+    "iostream": "cpp",
     "array": "cpp",
     "atomic": "cpp",
     "bit": "cpp",
@@ -72,7 +71,6 @@
     "utility": "cpp",
     "initializer_list": "cpp",
     "iosfwd": "cpp",
-    "iostream": "cpp",
     "istream": "cpp",
     "limits": "cpp",
     "new": "cpp",
@@ -80,7 +78,6 @@
     "ostream": "cpp",
     "stdexcept": "cpp",
     "streambuf": "cpp",
-    "typeinfo": "cpp",
-    "cstring": "cpp"
+    "typeinfo": "cpp"
   }
 }
