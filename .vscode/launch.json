@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/amira/Dropbox/_MACHINE LEARNING/C++",
-      "program": "c:/Users/amira/Dropbox/_MACHINE LEARNING/C++/build/Debug/outDebug",
+      "cwd": "c:/Users/amira/Dropbox/_MACHINE LEARNING/C++/Library",
+      "program": "c:/Users/amira/Dropbox/_MACHINE LEARNING/C++/Library/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
